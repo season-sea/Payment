@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="IndependentPaySys:war">
+    <output-path>$PROJECT_DIR$/../IndependentPaySys/target</output-path>
+    <root id="archive" name="independent-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="IndependentPaySys:war exploded" />
+    </root>
+  </artifact>
+</component>
