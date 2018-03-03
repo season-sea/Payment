@@ -1,2 +1,8 @@
-com\pay\independent\HelloController.class
+com\pay\independent\service\impl\UserServiceImpl.class
 com\pay\independent\IndependentApplication.class
+com\pay\independent\controller\HelloController.class
+com\pay\independent\rest\config\MvcConfigSupport.class
+com\pay\independent\entity\BlogConfig.class
+com\pay\independent\entity\UserInfo.class
+com\pay\independent\controller\UserController.class
+com\pay\independent\service\UserService.class
